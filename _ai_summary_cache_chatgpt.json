@@ -1,0 +1,14 @@
+{
+    "Welcome to MkDocs": {
+        "content_md5": "43c6d55ff50cdb587f6e48867450374c",
+        "ai_summary": "The MkDocs platform provides a user-friendly environment for creating and managing documentation websites. Users can generate a new project with the `mkdocs new [dir-name]` command, launch a live-reloading server with `mkdocs serve`, and compile the documentation site using `mkdocs build`. Additionally, the `-h` command can be used to display a help message. The project layout typically includes a configuration file named `mkdocs.yml` and a `docs` directory containing an `index.md` file for the homepage, as well as other markdown pages, images, and relevant files. For more detailed information and comprehensive documentation, users are directed to visit [mkdocs.org](https://www.mkdocs.org)."
+    },
+    "mkdocs-ai-summary-minimal": {
+        "content_md5": "d02ef5cba40016c9ebc37c9270770958",
+        "ai_summary": "The \"mkdocs-ai-summary-minimal\" provides a brief overview and basic commands for using MkDocs, a static site generator for creating project documentation. The commands include creating a new project with `mkdocs new [dir-name]`, starting the live-reloading docs server with `mkdocs serve`, building the documentation site with `mkdocs build`, and printing a help message and exiting using `mkdocs -h`. The project layout consists of a configuration file `mkdocs.yml`, a folder named `docs` containing the documentation homepage `index.md`, as well as other markdown pages, images, and files related to the project. For more detailed information and full documentation on MkDocs, users are directed to visit [mkdocs.org](https://www.mkdocs.org)."
+    },
+    "mkdocs-ai-summary Minimal Example": {
+        "content_md5": "a06971f6ba5d83451f69733c7e55a3e3",
+        "ai_summary": "The article discusses a minimal real-world example for utilizing \"mkdocs-ai-summary,\" linking to the PyPI page for the version, implementation, and supported Python versions. It provides guidance on configuring \"mkdocs.yml\" to use the tool efficiently. For complete documentation on \"mkdocs-ai-summary,\" readers are directed to its GitHub page. Additionally, users are encouraged to explore \"mkdocs.org\" for further information on using MkDocs. The content aims to offer a concise, practical example of implementing \"mkdocs-ai-summary\" while advising readers to refer to the specified resources for more comprehensive details."
+    }
+}

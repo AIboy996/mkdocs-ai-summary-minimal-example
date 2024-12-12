@@ -1,0 +1,7 @@
+site_name: mkdocs-ai-summary
+
+plugins:
+  - ai-summary
+
+markdown_extensions:
+  - admonition
